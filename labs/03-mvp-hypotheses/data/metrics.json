@@ -1,0 +1,167 @@
+{
+  "lessons": 220,
+  "revenue": 83900,
+  "reminders_total": 91,
+  "reminders_first": 44,
+  "reminders_repeat": 19,
+  "reminders_false": 28,
+  "recipients": 42,
+  "negative": 8,
+  "negative_share": 8.8,
+  "negative_after_false": 5,
+  "negative_share_true": 4.8,
+  "false_share": 30.8,
+  "false_w1": 3,
+  "false_w2": 25,
+  "episodes_all": 44,
+  "episodes_eligible": 34,
+  "paid3": 25,
+  "share3": 73.5,
+  "unpaid_at_end": 9,
+  "avg_delay": 1.9,
+  "collected_after_reminder": 16050,
+  "report_avg_w1": 6.2,
+  "report_avg_w2": 4.2,
+  "tutors_5of7_w2": 2,
+  "diary": [
+    {
+      "day": 1,
+      "reminders": 0,
+      "episodes": 0,
+      "paid3": 0,
+      "share3": null,
+      "negative": 0,
+      "false": 0,
+      "report_days": 4
+    },
+    {
+      "day": 3,
+      "reminders": 4,
+      "episodes": 0,
+      "paid3": 0,
+      "share3": null,
+      "negative": 1,
+      "false": 0,
+      "report_days": 13
+    },
+    {
+      "day": 5,
+      "reminders": 17,
+      "episodes": 0,
+      "paid3": 0,
+      "share3": null,
+      "negative": 3,
+      "false": 1,
+      "report_days": 21
+    },
+    {
+      "day": 7,
+      "reminders": 30,
+      "episodes": 11,
+      "paid3": 9,
+      "share3": 81.8,
+      "negative": 3,
+      "false": 3,
+      "report_days": 31
+    },
+    {
+      "day": 10,
+      "reminders": 55,
+      "episodes": 21,
+      "paid3": 15,
+      "share3": 71.4,
+      "negative": 5,
+      "false": 15,
+      "report_days": 39
+    },
+    {
+      "day": 12,
+      "reminders": 71,
+      "episodes": 22,
+      "paid3": 16,
+      "share3": 72.7,
+      "negative": 5,
+      "false": 20,
+      "report_days": 46
+    },
+    {
+      "day": 14,
+      "reminders": 91,
+      "episodes": 34,
+      "paid3": 25,
+      "share3": 73.5,
+      "negative": 8,
+      "false": 28,
+      "report_days": 52
+    }
+  ],
+  "by_channel": {
+    "Telegram": {
+      "episodes": 19,
+      "paid3": 12,
+      "share3": 63.2
+    },
+    "Viber": {
+      "episodes": 15,
+      "paid3": 13,
+      "share3": 86.7
+    }
+  },
+  "by_tutor": {
+    "Аліна": {
+      "lessons": 32,
+      "students": 8,
+      "reminders": 22,
+      "episodes": 8,
+      "paid3": 4,
+      "report_w1": 7,
+      "report_w2": 3,
+      "negative": 3,
+      "false": 4
+    },
+    "Ірина": {
+      "lessons": 78,
+      "students": 22,
+      "reminders": 18,
+      "episodes": 6,
+      "paid3": 4,
+      "report_w1": 6,
+      "report_w2": 4,
+      "negative": 2,
+      "false": 9
+    },
+    "Олена": {
+      "lessons": 48,
+      "students": 14,
+      "reminders": 24,
+      "episodes": 9,
+      "paid3": 8,
+      "report_w1": 4,
+      "report_w2": 5,
+      "negative": 2,
+      "false": 8
+    },
+    "Софія": {
+      "lessons": 24,
+      "students": 7,
+      "reminders": 14,
+      "episodes": 6,
+      "paid3": 5,
+      "report_w1": 7,
+      "report_w2": 5,
+      "negative": 0,
+      "false": 1
+    },
+    "Андрій": {
+      "lessons": 38,
+      "students": 9,
+      "reminders": 13,
+      "episodes": 5,
+      "paid3": 4,
+      "report_w1": 7,
+      "report_w2": 4,
+      "negative": 1,
+      "false": 6
+    }
+  }
+}

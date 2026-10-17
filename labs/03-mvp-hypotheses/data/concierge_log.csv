@@ -1,0 +1,570 @@
+day,tutor,student,event,channel,amount,detail
+1,Аліна,А01,lesson,,350,
+1,Аліна,А06,lesson,,350,
+1,Аліна,А06,payment,,350,без нагадування
+1,Аліна,А08,lesson,,400,
+1,Ірина,І04,lesson,,350,
+1,Ірина,І04,payment,,350,готівка
+1,Ірина,І06,lesson,,400,
+1,Ірина,І06,payment,,400,готівка
+1,Ірина,І07,lesson,,300,
+1,Ірина,І07,payment,,300,готівка
+1,Ірина,І08,lesson,,350,
+1,Ірина,І08,payment,,350,без нагадування
+1,Ірина,І09,lesson,,350,
+1,Ірина,І09,payment,,350,без нагадування
+1,Ірина,І11,lesson,,350,
+1,Ірина,І17,lesson,,400,
+1,Ірина,І17,payment,,400,без нагадування
+1,Ірина,І19,lesson,,400,
+1,Ірина,І19,payment,,400,без нагадування
+1,Ірина,І20,lesson,,350,
+1,Ірина,І20,payment,,350,готівка
+1,Олена,О06,lesson,,400,
+1,Софія,С01,lesson,,450,
+1,Софія,С05,lesson,,450,
+1,Андрій,А01,lesson,,350,
+1,Андрій,А04,lesson,,350,
+1,Андрій,А04,payment,,350,готівка
+1,Андрій,А08,lesson,,400,
+1,Андрій,А08,payment,,400,без нагадування
+1,Андрій,А09,lesson,,400,
+1,Андрій,А09,payment,,400,без нагадування
+1,Аліна,,tutor_report,Telegram,,
+1,Ірина,,tutor_report,Telegram,,
+1,Софія,,tutor_report,Telegram,,
+1,Андрій,,tutor_report,Telegram,,
+2,Аліна,А02,lesson,,300,
+2,Аліна,А03,lesson,,350,
+2,Аліна,А03,payment,,350,без нагадування
+2,Аліна,А04,lesson,,400,
+2,Аліна,А06,lesson,,350,
+2,Ірина,І01,lesson,,350,
+2,Ірина,І01,payment,,350,готівка
+2,Ірина,І03,lesson,,300,
+2,Ірина,І03,payment,,300,без нагадування
+2,Ірина,І05,lesson,,400,
+2,Ірина,І05,payment,,400,без нагадування
+2,Ірина,І10,lesson,,350,
+2,Ірина,І10,payment,,350,готівка
+2,Ірина,І11,payment,,350,без нагадування
+2,Ірина,І19,lesson,,400,
+2,Олена,О01,lesson,,400,
+2,Олена,О02,lesson,,350,
+2,Олена,О02,payment,,350,без нагадування
+2,Олена,О09,lesson,,400,
+2,Олена,О10,lesson,,400,
+2,Олена,О11,lesson,,400,
+2,Олена,О12,lesson,,450,
+2,Олена,О12,payment,,450,без нагадування
+2,Софія,С01,lesson,,450,
+2,Софія,С01,payment,,900,без нагадування
+2,Софія,С02,lesson,,400,
+2,Софія,С02,payment,,400,без нагадування
+2,Софія,С03,lesson,,450,
+2,Андрій,А01,lesson,,350,
+2,Андрій,А01,payment,,700,без нагадування
+2,Андрій,А02,lesson,,400,
+2,Андрій,А02,payment,,400,готівка
+2,Андрій,А03,lesson,,350,
+2,Андрій,А03,payment,,350,без нагадування
+2,Андрій,А05,lesson,,400,
+2,Андрій,А08,lesson,,400,
+2,Аліна,,tutor_report,Telegram,,
+2,Ірина,,tutor_report,Telegram,,
+2,Олена,,tutor_report,Telegram,,
+2,Софія,,tutor_report,Telegram,,
+2,Андрій,,tutor_report,Telegram,,
+3,Аліна,А01,reminder_first,Telegram,350,
+3,Аліна,А01,reply_negative,Telegram,,
+3,Аліна,А08,reminder_first,Telegram,400,
+3,Олена,О06,reminder_first,Viber,400,
+3,Софія,С05,reminder_first,Telegram,450,
+3,Аліна,А01,payment,,350,після нагадування
+3,Аліна,А02,lesson,,300,
+3,Аліна,А02,payment,,600,без нагадування
+3,Аліна,А03,lesson,,350,
+3,Аліна,А04,lesson,,400,
+3,Аліна,А05,lesson,,400,
+3,Аліна,А05,payment,,400,без нагадування
+3,Аліна,А07,lesson,,400,
+3,Ірина,І02,lesson,,400,
+3,Ірина,І02,payment,,400,готівка
+3,Ірина,І07,lesson,,300,
+3,Ірина,І07,payment,,300,готівка
+3,Ірина,І08,lesson,,350,
+3,Ірина,І08,payment,,350,без нагадування
+3,Ірина,І11,lesson,,350,
+3,Ірина,І13,lesson,,300,
+3,Ірина,І13,payment,,300,готівка
+3,Ірина,І16,lesson,,350,
+3,Ірина,І16,payment,,350,готівка
+3,Ірина,І19,payment,,400,без нагадування
+3,Ірина,І22,lesson,,400,
+3,Ірина,І22,payment,,400,готівка
+3,Олена,О09,lesson,,400,
+3,Олена,О10,lesson,,400,
+3,Олена,О10,payment,,800,без нагадування
+3,Олена,О14,lesson,,450,
+3,Олена,О14,payment,,450,готівка
+3,Софія,С04,lesson,,350,
+3,Софія,С05,lesson,,450,
+3,Софія,С05,payment,,900,після нагадування
+3,Софія,С06,lesson,,450,
+3,Андрій,А04,lesson,,350,
+3,Андрій,А04,payment,,350,готівка
+3,Андрій,А05,payment,,400,без нагадування
+3,Андрій,А06,lesson,,450,
+3,Андрій,А06,payment,,450,готівка
+3,Андрій,А07,lesson,,400,
+3,Аліна,,tutor_report,Telegram,,
+3,Ірина,,tutor_report,Telegram,,
+3,Софія,,tutor_report,Telegram,,
+3,Андрій,,tutor_report,Telegram,,
+4,Аліна,А04,reminder_first,Telegram,800,
+4,Аліна,А06,reminder_first,Telegram,350,
+4,Аліна,А06,reply_negative,Telegram,,
+4,Олена,О01,reminder_first,Viber,400,
+4,Олена,О09,reminder_first,Viber,800,
+4,Олена,О10,reminder_false,Viber,800,оплату не передано команді
+4,Олена,О10,reply_paid_already,Viber,,
+4,Олена,О11,reminder_first,Viber,400,
+4,Софія,С03,reminder_first,Telegram,450,
+4,Андрій,А08,reminder_first,Telegram,400,
+4,Андрій,А08,reply_negative,Telegram,,
+4,Аліна,А04,lesson,,400,
+4,Аліна,А04,payment,,1200,після нагадування
+4,Аліна,А05,lesson,,400,
+4,Аліна,А07,payment,,400,без нагадування
+4,Ірина,І02,lesson,,400,
+4,Ірина,І02,payment,,400,готівка
+4,Ірина,І03,lesson,,300,
+4,Ірина,І05,lesson,,400,
+4,Ірина,І09,lesson,,350,
+4,Ірина,І09,payment,,350,без нагадування
+4,Ірина,І10,lesson,,350,
+4,Ірина,І10,payment,,350,готівка
+4,Ірина,І14,lesson,,300,
+4,Ірина,І14,payment,,300,готівка
+4,Ірина,І18,lesson,,400,
+4,Ірина,І18,payment,,400,готівка
+4,Ірина,І21,lesson,,350,
+4,Олена,О02,lesson,,350,
+4,Олена,О05,lesson,,400,
+4,Олена,О05,payment,,400,готівка
+4,Олена,О08,lesson,,350,
+4,Олена,О08,payment,,350,без нагадування
+4,Олена,О13,lesson,,450,
+4,Софія,С07,lesson,,400,
+4,Андрій,А02,lesson,,400,
+4,Андрій,А02,payment,,400,готівка
+4,Андрій,А04,lesson,,350,
+4,Андрій,А04,payment,,350,готівка
+4,Андрій,А06,lesson,,450,
+4,Андрій,А06,payment,,450,готівка
+4,Андрій,А08,payment,,400,після нагадування
+4,Андрій,А09,lesson,,400,
+4,Андрій,А09,payment,,400,без нагадування
+4,Аліна,,tutor_report,Telegram,,
+4,Олена,,tutor_report,Telegram,,
+4,Софія,,tutor_report,Telegram,,
+4,Андрій,,tutor_report,Telegram,,
+5,Аліна,А03,reminder_first,Telegram,350,
+5,Ірина,І11,reminder_first,Viber,350,
+5,Софія,С04,reminder_first,Telegram,350,
+5,Софія,С06,reminder_first,Telegram,450,
+5,Андрій,А07,reminder_first,Telegram,400,
+5,Аліна,А01,lesson,,350,
+5,Аліна,А08,lesson,,400,
+5,Ірина,І05,payment,,400,без нагадування
+5,Ірина,І06,lesson,,400,
+5,Ірина,І06,payment,,400,готівка
+5,Ірина,І11,payment,,350,після нагадування
+5,Ірина,І14,lesson,,300,
+5,Ірина,І14,payment,,300,готівка
+5,Ірина,І16,lesson,,350,
+5,Ірина,І16,payment,,350,готівка
+5,Ірина,І17,lesson,,400,
+5,Ірина,І17,payment,,400,без нагадування
+5,Ірина,І18,lesson,,400,
+5,Ірина,І18,payment,,400,готівка
+5,Ірина,І21,lesson,,350,
+5,Олена,О01,lesson,,400,
+5,Олена,О05,lesson,,400,
+5,Олена,О05,payment,,400,готівка
+5,Олена,О06,lesson,,400,
+5,Олена,О06,payment,,800,після нагадування
+5,Олена,О07,lesson,,450,
+5,Олена,О07,payment,,450,без нагадування
+5,Олена,О08,lesson,,350,
+5,Олена,О08,payment,,350,без нагадування
+5,Олена,О11,lesson,,400,
+5,Олена,О13,payment,,450,без нагадування
+5,Софія,С03,lesson,,450,
+5,Софія,С04,lesson,,350,
+5,Софія,С04,payment,,700,після нагадування
+5,Софія,С06,lesson,,450,
+5,Софія,С07,payment,,400,без нагадування
+5,Андрій,А02,lesson,,400,
+5,Андрій,А02,payment,,400,готівка
+5,Андрій,А05,lesson,,400,
+5,Андрій,А05,payment,,400,без нагадування
+5,Андрій,А07,lesson,,400,
+5,Андрій,А07,payment,,800,після нагадування
+5,Аліна,,tutor_report,Telegram,,
+5,Ірина,,tutor_report,Telegram,,
+5,Софія,,tutor_report,Telegram,,
+5,Андрій,,tutor_report,Telegram,,
+6,Аліна,А05,reminder_first,Telegram,400,
+6,Аліна,А08,reminder_repeat,Telegram,800,
+6,Ірина,І03,reminder_first,Viber,300,
+6,Ірина,І21,reminder_first,Telegram,700,
+6,Олена,О02,reminder_first,Viber,350,
+6,Олена,О06,reminder_false,Viber,800,оплату не передано команді
+6,Олена,О06,reply_paid_already,Viber,,
+6,Олена,О13,reminder_false,Viber,450,оплату не передано команді
+6,Олена,О13,reply_paid_already,Viber,,
+6,Ірина,І01,lesson,,350,
+6,Ірина,І01,payment,,350,готівка
+6,Ірина,І04,lesson,,350,
+6,Ірина,І04,payment,,350,готівка
+6,Ірина,І12,lesson,,300,
+6,Ірина,І15,lesson,,400,
+6,Ірина,І15,payment,,400,без нагадування
+6,Олена,О03,lesson,,350,
+6,Олена,О04,lesson,,350,
+6,Олена,О04,payment,,350,без нагадування
+6,Олена,О07,lesson,,450,
+6,Олена,О07,payment,,450,без нагадування
+6,Олена,О13,lesson,,450,
+6,Аліна,,tutor_report,Telegram,,
+6,Ірина,,tutor_report,Telegram,,
+6,Олена,,tutor_report,Telegram,,
+6,Софія,,tutor_report,Telegram,,
+6,Андрій,,tutor_report,Telegram,,
+7,Аліна,А01,reminder_first,Telegram,350,
+7,Аліна,А06,reminder_repeat,Telegram,350,
+7,Олена,О01,reminder_repeat,Viber,800,
+7,Олена,О09,reminder_repeat,Viber,800,
+7,Олена,О11,reminder_repeat,Viber,800,
+7,Софія,С03,reminder_repeat,Telegram,900,
+7,Аліна,А05,payment,,400,після нагадування
+7,Аліна,А06,payment,,350,після нагадування
+7,Ірина,І12,payment,,300,без нагадування
+7,Олена,О01,payment,,800,після нагадування
+7,Олена,О02,payment,,350,після нагадування
+7,Олена,О09,payment,,800,після нагадування
+7,Олена,О13,payment,,450,без нагадування
+7,Софія,С03,payment,,900,після нагадування
+7,Аліна,,tutor_report,Telegram,,
+7,Ірина,,tutor_report,Telegram,,
+7,Олена,,tutor_report,Telegram,,
+7,Софія,,tutor_report,Telegram,,
+7,Андрій,,tutor_report,Telegram,,
+7,Аліна,,weekly_summary,Telegram,,
+7,Ірина,,weekly_summary,Telegram,,
+7,Олена,,weekly_summary,Telegram,,
+7,Софія,,weekly_summary,Telegram,,
+7,Андрій,,weekly_summary,Telegram,,
+8,Аліна,А03,reminder_repeat,Telegram,350,
+8,Олена,О03,reminder_first,Viber,350,
+8,Софія,С06,reminder_repeat,Telegram,900,
+8,Аліна,А01,lesson,,350,
+8,Аліна,А06,lesson,,350,
+8,Аліна,А08,lesson,,400,
+8,Ірина,І03,payment,,300,після нагадування
+8,Ірина,І04,lesson,,350,
+8,Ірина,І04,payment,,350,готівка
+8,Ірина,І06,lesson,,400,
+8,Ірина,І06,payment,,400,готівка
+8,Ірина,І07,lesson,,300,
+8,Ірина,І07,payment,,300,готівка
+8,Ірина,І08,lesson,,350,
+8,Ірина,І09,lesson,,350,
+8,Ірина,І11,lesson,,350,
+8,Ірина,І17,lesson,,400,
+8,Ірина,І17,payment,,400,без нагадування
+8,Ірина,І19,lesson,,400,
+8,Ірина,І20,lesson,,350,
+8,Ірина,І20,payment,,350,готівка
+8,Олена,О03,payment,,350,після нагадування
+8,Олена,О06,lesson,,400,
+8,Софія,С01,lesson,,450,
+8,Софія,С05,lesson,,450,
+8,Андрій,А01,lesson,,350,
+8,Андрій,А01,payment,,350,без нагадування
+8,Андрій,А04,lesson,,350,
+8,Андрій,А04,payment,,350,готівка
+8,Андрій,А08,lesson,,400,
+8,Андрій,А09,lesson,,400,
+8,Андрій,А09,payment,,400,без нагадування
+8,Олена,,tutor_report,Telegram,,
+8,Софія,,tutor_report,Telegram,,
+9,Аліна,А08,reminder_repeat,Telegram,1200,
+9,Ірина,І03,reminder_false,Viber,300,оплату не передано команді
+9,Ірина,І03,reply_negative,Viber,,
+9,Ірина,І21,reminder_repeat,Telegram,700,
+9,Аліна,А02,lesson,,300,
+9,Аліна,А02,payment,,300,без нагадування
+9,Аліна,А03,lesson,,350,
+9,Аліна,А04,lesson,,400,
+9,Аліна,А06,lesson,,350,
+9,Аліна,А06,payment,,700,без нагадування
+9,Аліна,А08,payment,,1200,після нагадування
+9,Ірина,І01,lesson,,350,
+9,Ірина,І01,payment,,350,готівка
+9,Ірина,І03,lesson,,300,
+9,Ірина,І05,lesson,,400,
+9,Ірина,І05,payment,,400,без нагадування
+9,Ірина,І09,payment,,350,без нагадування
+9,Ірина,І10,lesson,,350,
+9,Ірина,І10,payment,,350,готівка
+9,Ірина,І19,lesson,,400,
+9,Ірина,І19,payment,,800,без нагадування
+9,Олена,О01,lesson,,400,
+9,Олена,О02,lesson,,350,
+9,Олена,О09,lesson,,400,
+9,Олена,О10,lesson,,400,
+9,Олена,О10,payment,,400,без нагадування
+9,Олена,О11,lesson,,400,
+9,Олена,О12,lesson,,450,
+9,Олена,О12,payment,,450,без нагадування
+9,Софія,С01,lesson,,450,
+9,Софія,С01,payment,,900,без нагадування
+9,Софія,С02,lesson,,400,
+9,Софія,С03,lesson,,450,
+9,Софія,С06,payment,,900,після нагадування
+9,Андрій,А01,lesson,,350,
+9,Андрій,А02,lesson,,400,
+9,Андрій,А02,payment,,400,готівка
+9,Андрій,А03,lesson,,350,
+9,Андрій,А05,lesson,,400,
+9,Андрій,А08,lesson,,400,
+9,Олена,,tutor_report,Telegram,,
+9,Софія,,tutor_report,Telegram,,
+10,Аліна,А01,reminder_repeat,Telegram,700,
+10,Аліна,А06,reminder_false,Telegram,700,оплату не передано команді
+10,Аліна,А06,reply_paid_already,Telegram,,
+10,Аліна,А08,reminder_false,Telegram,1200,оплату не передано команді
+10,Аліна,А08,reply_paid_already,Telegram,,
+10,Ірина,І04,reminder_false,Viber,350,оплату не передано команді
+10,Ірина,І04,reply_negative,Viber,,
+10,Ірина,І06,reminder_false,Viber,400,оплату не передано команді
+10,Ірина,І06,reply_paid_already,Viber,,
+10,Ірина,І07,reminder_false,Viber,300,оплату не передано команді
+10,Ірина,І07,reply_paid_already,Viber,,
+10,Ірина,І08,reminder_first,Viber,350,
+10,Ірина,І09,reminder_false,Viber,350,оплату не передано команді
+10,Ірина,І09,reply_paid_already,Viber,,
+10,Ірина,І11,reminder_first,Viber,350,
+10,Ірина,І17,reminder_false,Telegram,400,оплату не передано команді
+10,Ірина,І17,reply_paid_already,Telegram,,
+10,Ірина,І19,reminder_false,Telegram,800,оплату не передано команді
+10,Ірина,І19,reply_paid_already,Telegram,,
+10,Ірина,І20,reminder_false,Telegram,350,оплату не передано команді
+10,Ірина,І20,reply_paid_already,Telegram,,
+10,Олена,О06,reminder_first,Viber,400,
+10,Олена,О11,reminder_repeat,Viber,1200,
+10,Софія,С05,reminder_first,Telegram,450,
+10,Андрій,А01,reminder_first,Viber,700,
+10,Андрій,А04,reminder_false,Telegram,350,оплату не передано команді
+10,Андрій,А04,reply_paid_already,Telegram,,
+10,Андрій,А08,reminder_first,Telegram,800,
+10,Андрій,А09,reminder_false,Telegram,400,оплату не передано команді
+10,Андрій,А09,reply_paid_already,Telegram,,
+10,Аліна,А02,lesson,,300,
+10,Аліна,А02,payment,,300,без нагадування
+10,Аліна,А03,lesson,,350,
+10,Аліна,А04,lesson,,400,
+10,Аліна,А05,lesson,,400,
+10,Аліна,А07,lesson,,400,
+10,Аліна,А07,payment,,400,без нагадування
+10,Ірина,І02,lesson,,400,
+10,Ірина,І02,payment,,400,готівка
+10,Ірина,І07,lesson,,300,
+10,Ірина,І07,payment,,300,готівка
+10,Ірина,І08,lesson,,350,
+10,Ірина,І11,lesson,,350,
+10,Ірина,І11,payment,,700,після нагадування
+10,Ірина,І13,lesson,,300,
+10,Ірина,І13,payment,,300,готівка
+10,Ірина,І16,lesson,,350,
+10,Ірина,І16,payment,,350,готівка
+10,Ірина,І22,lesson,,400,
+10,Ірина,І22,payment,,400,готівка
+10,Олена,О02,payment,,350,без нагадування
+10,Олена,О06,payment,,400,після нагадування
+10,Олена,О09,lesson,,400,
+10,Олена,О10,lesson,,400,
+10,Олена,О14,lesson,,450,
+10,Олена,О14,payment,,450,готівка
+10,Софія,С03,payment,,450,без нагадування
+10,Софія,С04,lesson,,350,
+10,Софія,С05,lesson,,450,
+10,Софія,С06,lesson,,450,
+10,Софія,С06,payment,,450,без нагадування
+10,Андрій,А01,payment,,350,після нагадування
+10,Андрій,А03,payment,,350,без нагадування
+10,Андрій,А04,lesson,,350,
+10,Андрій,А04,payment,,350,готівка
+10,Андрій,А06,lesson,,450,
+10,Андрій,А06,payment,,450,готівка
+10,Андрій,А07,lesson,,400,
+10,Андрій,А07,payment,,400,без нагадування
+10,Андрій,А08,payment,,800,після нагадування
+10,Аліна,,tutor_report,Telegram,,
+10,Ірина,,tutor_report,Telegram,,
+10,Олена,,tutor_report,Telegram,,
+10,Софія,,tutor_report,Telegram,,
+11,Аліна,А03,reminder_repeat,Telegram,1050,
+11,Аліна,А04,reminder_first,Telegram,800,
+11,Ірина,І03,reminder_first,Viber,300,
+11,Олена,О01,reminder_first,Viber,400,
+11,Олена,О09,reminder_first,Viber,800,
+11,Софія,С02,reminder_first,Telegram,400,
+11,Андрій,А01,reminder_false,Viber,700,оплату не передано команді
+11,Андрій,А01,reply_paid_already,Viber,,
+11,Андрій,А02,reminder_false,Viber,400,оплату не передано команді
+11,Андрій,А02,reply_paid_already,Viber,,
+11,Андрій,А03,reminder_false,Telegram,350,оплату не передано команді
+11,Андрій,А03,reply_paid_already,Telegram,,
+11,Андрій,А05,reminder_first,Telegram,400,
+11,Андрій,А08,reminder_false,Telegram,800,оплату не передано команді
+11,Андрій,А08,reply_paid_already,Telegram,,
+11,Аліна,А04,lesson,,400,
+11,Аліна,А05,lesson,,400,
+11,Ірина,І02,lesson,,400,
+11,Ірина,І02,payment,,400,готівка
+11,Ірина,І03,lesson,,300,
+11,Ірина,І03,payment,,600,після нагадування
+11,Ірина,І05,lesson,,400,
+11,Ірина,І05,payment,,400,без нагадування
+11,Ірина,І09,lesson,,350,
+11,Ірина,І10,lesson,,350,
+11,Ірина,І10,payment,,350,готівка
+11,Ірина,І14,lesson,,300,
+11,Ірина,І14,payment,,300,готівка
+11,Ірина,І18,lesson,,400,
+11,Ірина,І18,payment,,400,готівка
+11,Ірина,І21,lesson,,350,
+11,Олена,О02,lesson,,350,
+11,Олена,О02,payment,,350,без нагадування
+11,Олена,О05,lesson,,400,
+11,Олена,О05,payment,,400,готівка
+11,Олена,О08,lesson,,350,
+11,Олена,О13,lesson,,450,
+11,Олена,О13,payment,,450,без нагадування
+11,Софія,С02,payment,,400,після нагадування
+11,Софія,С07,lesson,,400,
+11,Андрій,А02,lesson,,400,
+11,Андрій,А02,payment,,400,готівка
+11,Андрій,А04,lesson,,350,
+11,Андрій,А04,payment,,350,готівка
+11,Андрій,А06,lesson,,450,
+11,Андрій,А06,payment,,450,готівка
+11,Андрій,А09,lesson,,400,
+11,Андрій,А09,payment,,400,без нагадування
+11,Аліна,,tutor_report,Telegram,,
+11,Ірина,,tutor_report,Telegram,,
+11,Олена,,tutor_report,Telegram,,
+11,Андрій,,tutor_report,Telegram,,
+12,Аліна,А05,reminder_first,Telegram,800,
+12,Ірина,І21,reminder_repeat,Telegram,1050,
+12,Олена,О10,reminder_first,Viber,400,
+12,Софія,С02,reminder_false,Telegram,400,оплату не передано команді
+12,Софія,С02,reply_paid_already,Telegram,,
+12,Софія,С04,reminder_first,Telegram,350,
+12,Аліна,А01,lesson,,350,
+12,Аліна,А03,payment,,1050,після нагадування
+12,Аліна,А05,payment,,800,після нагадування
+12,Аліна,А08,lesson,,400,
+12,Ірина,І06,lesson,,400,
+12,Ірина,І06,payment,,400,готівка
+12,Ірина,І09,payment,,350,без нагадування
+12,Ірина,І14,lesson,,300,
+12,Ірина,І14,payment,,300,готівка
+12,Ірина,І16,lesson,,350,
+12,Ірина,І16,payment,,350,готівка
+12,Ірина,І17,lesson,,400,
+12,Ірина,І17,payment,,400,без нагадування
+12,Ірина,І18,lesson,,400,
+12,Ірина,І18,payment,,400,готівка
+12,Ірина,І21,lesson,,350,
+12,Олена,О01,lesson,,400,
+12,Олена,О01,payment,,800,після нагадування
+12,Олена,О05,lesson,,400,
+12,Олена,О05,payment,,400,готівка
+12,Олена,О06,lesson,,400,
+12,Олена,О07,lesson,,450,
+12,Олена,О08,lesson,,350,
+12,Олена,О08,payment,,700,без нагадування
+12,Олена,О09,payment,,800,після нагадування
+12,Олена,О11,lesson,,400,
+12,Олена,О11,payment,,1600,після нагадування
+12,Софія,С03,lesson,,450,
+12,Софія,С04,lesson,,350,
+12,Софія,С04,payment,,700,після нагадування
+12,Софія,С06,lesson,,450,
+12,Андрій,А02,lesson,,400,
+12,Андрій,А02,payment,,400,готівка
+12,Андрій,А05,lesson,,400,
+12,Андрій,А07,lesson,,400,
+12,Ірина,,tutor_report,Telegram,,
+12,Софія,,tutor_report,Telegram,,
+12,Андрій,,tutor_report,Telegram,,
+13,Аліна,А01,reminder_repeat,Telegram,1050,
+13,Аліна,А03,reminder_false,Telegram,1050,оплату не передано команді
+13,Аліна,А03,reply_paid_already,Telegram,,
+13,Аліна,А05,reminder_false,Telegram,800,оплату не передано команді
+13,Аліна,А05,reply_negative,Telegram,,
+13,Ірина,І08,reminder_repeat,Viber,700,
+13,Олена,О01,reminder_false,Viber,800,оплату не передано команді
+13,Олена,О01,reply_paid_already,Viber,,
+13,Олена,О08,reminder_false,Viber,700,оплату не передано команді
+13,Олена,О08,reply_paid_already,Viber,,
+13,Олена,О09,reminder_false,Viber,800,оплату не передано команді
+13,Олена,О09,reply_paid_already,Viber,,
+13,Олена,О11,reminder_false,Viber,1600,оплату не передано команді
+13,Олена,О11,reply_negative,Viber,,
+13,Софія,С05,reminder_repeat,Telegram,900,
+13,Софія,С07,reminder_first,Telegram,400,
+13,Аліна,А01,payment,,1050,після нагадування
+13,Ірина,І01,lesson,,350,
+13,Ірина,І01,payment,,350,готівка
+13,Ірина,І04,lesson,,350,
+13,Ірина,І04,payment,,350,готівка
+13,Ірина,І12,lesson,,300,
+13,Ірина,І15,lesson,,400,
+13,Ірина,І21,payment,,1400,після нагадування
+13,Олена,О03,lesson,,350,
+13,Олена,О04,lesson,,350,
+13,Олена,О04,payment,,350,без нагадування
+13,Олена,О07,lesson,,450,
+13,Олена,О13,lesson,,450,
+13,Олена,О13,payment,,450,без нагадування
+13,Софія,С05,payment,,900,після нагадування
+13,Аліна,,tutor_report,Telegram,,
+13,Софія,,tutor_report,Telegram,,
+13,Андрій,,tutor_report,Telegram,,
+14,Аліна,А04,reminder_repeat,Telegram,1200,
+14,Аліна,А08,reminder_first,Telegram,400,
+14,Ірина,І21,reminder_false,Telegram,1400,оплату не передано команді
+14,Ірина,І21,reply_paid_already,Telegram,,
+14,Олена,О05,reminder_false,Viber,400,оплату не передано команді
+14,Олена,О05,reply_negative,Viber,,
+14,Олена,О06,reminder_first,Viber,400,
+14,Олена,О07,reminder_first,Viber,900,
+14,Софія,С03,reminder_first,Telegram,450,
+14,Софія,С06,reminder_first,Telegram,450,
+14,Андрій,А05,reminder_repeat,Telegram,800,
+14,Андрій,А07,reminder_first,Telegram,400,
+14,Ірина,І08,payment,,700,після нагадування
+14,Андрій,А07,payment,,400,після нагадування
+14,Ірина,,tutor_report,Telegram,,
+14,Олена,,tutor_report,Telegram,,
+14,Андрій,,tutor_report,Telegram,,
+14,Аліна,,weekly_summary,Telegram,,
+14,Ірина,,weekly_summary,Telegram,,
+14,Олена,,weekly_summary,Telegram,,
+14,Софія,,weekly_summary,Telegram,,
+14,Андрій,,weekly_summary,Telegram,,
