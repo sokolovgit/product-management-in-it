@@ -1,0 +1,266 @@
+{
+  "unit": {
+    "cac_m6": 11.271604938271604,
+    "ltv_cac_m6": 4.506337036457518,
+    "m6": {
+      "Telegram-спільноти репетиторів": [
+        300,
+        25
+      ],
+      "Реферали й підпис у нагадуваннях": [
+        213,
+        30
+      ],
+      "Таргетована реклама Facebook / Instagram": [
+        150,
+        6
+      ],
+      "Facebook-групи вчителів": [
+        100,
+        8
+      ],
+      "Контент і SEO": [
+        150,
+        12
+      ]
+    },
+    "pro": 3.5476190476190474,
+    "studio": 11.880952380952381,
+    "cogs": 0.5,
+    "gm": 0.8590604026845637,
+    "churn": 0.06,
+    "ltv": 50.79365079365079,
+    "channels": [
+      {
+        "name": "Telegram-спільноти репетиторів",
+        "kind": "Organic",
+        "spend": 300,
+        "new": 18,
+        "cac": 16.666666666666668,
+        "note": "Комʼюніті-менеджер на пів ставки, пости й відповіді в чатах НМТ і репетиторів"
+      },
+      {
+        "name": "Реферали й підпис у нагадуваннях",
+        "kind": "Product-Led",
+        "spend": 99,
+        "new": 14,
+        "cac": 7.071428571428571,
+        "note": "Місяць Pro безкоштовно і тому, хто запросив, і новому клієнту"
+      },
+      {
+        "name": "Таргетована реклама Facebook / Instagram",
+        "kind": "Paid",
+        "spend": 300,
+        "new": 12,
+        "cac": 25.0,
+        "note": "Аудиторія вчителів і студентів-репетиторів, CPC ≈ $0.25"
+      },
+      {
+        "name": "Facebook-групи вчителів",
+        "kind": "Organic",
+        "spend": 100,
+        "new": 6,
+        "cac": 16.666666666666668,
+        "note": "Частина часу того ж комʼюніті-менеджера"
+      },
+      {
+        "name": "Контент і SEO",
+        "kind": "Organic",
+        "spend": 150,
+        "new": 3,
+        "cac": 50.0,
+        "note": "Статті «як вести облік учнів і оплат», окупаються через 4–6 місяців"
+      }
+    ],
+    "referral_cost": 99,
+    "cac": 17.90566037735849,
+    "ltv_cac": 2.8367370833124257,
+    "payback": 5.875294811320755,
+    "churn_for_3x": 0.056734741666248506,
+    "ltv_cac_paid": 2.0317460317460316
+  },
+  "projection": [
+    {
+      "n": 1,
+      "month": "Січ",
+      "new": 20,
+      "churned": 0,
+      "upgrades": 0,
+      "clients": 20,
+      "studio": 0,
+      "mrr": 70.95238095238095,
+      "cumulative": 70.95238095238095
+    },
+    {
+      "n": 2,
+      "month": "Лют",
+      "new": 35,
+      "churned": 1,
+      "upgrades": 1,
+      "clients": 54,
+      "studio": 1,
+      "mrr": 199.9047619047619,
+      "cumulative": 270.85714285714283
+    },
+    {
+      "n": 3,
+      "month": "Бер",
+      "new": 53,
+      "churned": 3,
+      "upgrades": 1,
+      "clients": 104,
+      "studio": 2,
+      "mrr": 385.6190476190476,
+      "cumulative": 656.4761904761904
+    },
+    {
+      "n": 4,
+      "month": "Кві",
+      "new": 65,
+      "churned": 6,
+      "upgrades": 2,
+      "clients": 163,
+      "studio": 4,
+      "mrr": 611.5952380952381,
+      "cumulative": 1268.0714285714284
+    },
+    {
+      "n": 5,
+      "month": "Тра",
+      "new": 75,
+      "churned": 10,
+      "upgrades": 2,
+      "clients": 228,
+      "studio": 6,
+      "mrr": 858.8571428571429,
+      "cumulative": 2126.9285714285716
+    },
+    {
+      "n": 6,
+      "month": "Чер",
+      "new": 70,
+      "churned": 14,
+      "upgrades": 1,
+      "clients": 284,
+      "studio": 7,
+      "mrr": 1065.857142857143,
+      "cumulative": 3192.7857142857147
+    },
+    {
+      "n": 7,
+      "month": "Лип",
+      "new": 40,
+      "churned": 34,
+      "upgrades": 0,
+      "clients": 290,
+      "studio": 6,
+      "mrr": 1078.8095238095239,
+      "cumulative": 4271.5952380952385
+    },
+    {
+      "n": 8,
+      "month": "Сер",
+      "new": 45,
+      "churned": 35,
+      "upgrades": 1,
+      "clients": 300,
+      "studio": 6,
+      "mrr": 1114.2857142857142,
+      "cumulative": 5385.880952380952
+    },
+    {
+      "n": 9,
+      "month": "Вер",
+      "new": 120,
+      "churned": 18,
+      "upgrades": 3,
+      "clients": 402,
+      "studio": 9,
+      "mrr": 1501.1428571428569,
+      "cumulative": 6887.023809523809
+    },
+    {
+      "n": 10,
+      "month": "Жов",
+      "new": 110,
+      "churned": 24,
+      "upgrades": 3,
+      "clients": 488,
+      "studio": 11,
+      "mrr": 1822.9047619047617,
+      "cumulative": 8709.92857142857
+    },
+    {
+      "n": 11,
+      "month": "Лис",
+      "new": 95,
+      "churned": 29,
+      "upgrades": 2,
+      "clients": 554,
+      "studio": 12,
+      "mrr": 2065.3809523809523,
+      "cumulative": 10775.309523809523
+    },
+    {
+      "n": 12,
+      "month": "Гру",
+      "new": 85,
+      "churned": 33,
+      "upgrades": 2,
+      "clients": 606,
+      "studio": 13,
+      "mrr": 2258.190476190476,
+      "cumulative": 13033.5
+    }
+  ],
+  "funnel": [
+    {
+      "step": "Реєстрації (Acquisition)",
+      "value": 840,
+      "share": 0.14,
+      "drop": 0.86,
+      "from": 6000
+    },
+    {
+      "step": "Activation – Aha Moment за 7 днів",
+      "value": 252,
+      "share": 0.3,
+      "drop": 0.7,
+      "from": 840
+    },
+    {
+      "step": "D30 Retained",
+      "value": 151,
+      "share": 0.5992063492063492,
+      "drop": 0.4007936507936508,
+      "from": 252
+    },
+    {
+      "step": "Платять (Revenue)",
+      "value": 53,
+      "share": 0.3509933774834437,
+      "drop": 0.6490066225165563,
+      "from": 151
+    }
+  ],
+  "ab": {
+    "baseline": 0.4,
+    "mde_rel": 0.2,
+    "alpha": 0.05,
+    "power": 0.8,
+    "daily_new": 28,
+    "eligible": 0.85,
+    "window": 14,
+    "n_calculator": 592,
+    "p2": 0.48,
+    "z_a": 1.9599639845400534,
+    "z_b": 0.8416212335729144,
+    "n": 604,
+    "n_simple": 589,
+    "per_day": 23.8,
+    "per_group": 11.9,
+    "enroll_days": 50,
+    "enroll_weeks": 8,
+    "total_days": 70
+  }
+}
