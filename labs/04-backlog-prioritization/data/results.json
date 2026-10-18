@@ -1,0 +1,438 @@
+{
+  "rice": [
+    {
+      "id": "US-004",
+      "reach": 1800,
+      "impact": 3,
+      "conf": 80,
+      "sp": 3,
+      "effort": 0.15,
+      "score": 28800,
+      "rank": 1
+    },
+    {
+      "id": "US-005",
+      "reach": 1800,
+      "impact": 2,
+      "conf": 80,
+      "sp": 3,
+      "effort": 0.15,
+      "score": 19200,
+      "rank": 2
+    },
+    {
+      "id": "US-012",
+      "reach": 1400,
+      "impact": 2,
+      "conf": 100,
+      "sp": 3,
+      "effort": 0.15,
+      "score": 18667,
+      "rank": 3
+    },
+    {
+      "id": "US-010",
+      "reach": 1400,
+      "impact": 3,
+      "conf": 100,
+      "sp": 8,
+      "effort": 0.4,
+      "score": 10500,
+      "rank": 4
+    },
+    {
+      "id": "US-015",
+      "reach": 1600,
+      "impact": 1,
+      "conf": 80,
+      "sp": 3,
+      "effort": 0.15,
+      "score": 8533,
+      "rank": 5
+    },
+    {
+      "id": "US-011",
+      "reach": 1400,
+      "impact": 1,
+      "conf": 80,
+      "sp": 3,
+      "effort": 0.15,
+      "score": 7467,
+      "rank": 6
+    },
+    {
+      "id": "US-014",
+      "reach": 1580,
+      "impact": 2,
+      "conf": 50,
+      "sp": 5,
+      "effort": 0.25,
+      "score": 6320,
+      "rank": 7
+    },
+    {
+      "id": "US-001",
+      "reach": 500,
+      "impact": 2,
+      "conf": 80,
+      "sp": 3,
+      "effort": 0.15,
+      "score": 5333,
+      "rank": 8
+    },
+    {
+      "id": "US-023",
+      "reach": 640,
+      "impact": 2,
+      "conf": 80,
+      "sp": 8,
+      "effort": 0.4,
+      "score": 2560,
+      "rank": 9
+    },
+    {
+      "id": "US-007",
+      "reach": 500,
+      "impact": 2,
+      "conf": 50,
+      "sp": 5,
+      "effort": 0.25,
+      "score": 2000,
+      "rank": 10
+    },
+    {
+      "id": "US-020",
+      "reach": 460,
+      "impact": 1,
+      "conf": 80,
+      "sp": 5,
+      "effort": 0.25,
+      "score": 1472,
+      "rank": 11
+    },
+    {
+      "id": "US-017",
+      "reach": 900,
+      "impact": 1,
+      "conf": 50,
+      "sp": 8,
+      "effort": 0.4,
+      "score": 1125,
+      "rank": 12
+    },
+    {
+      "id": "US-016",
+      "reach": 1200,
+      "impact": 1,
+      "conf": 20,
+      "sp": 8,
+      "effort": 0.4,
+      "score": 600,
+      "rank": 13
+    },
+    {
+      "id": "US-022",
+      "reach": 460,
+      "impact": 1,
+      "conf": 50,
+      "sp": 8,
+      "effort": 0.4,
+      "score": 575,
+      "rank": 14
+    },
+    {
+      "id": "US-026",
+      "reach": 500,
+      "impact": 0.5,
+      "conf": 80,
+      "sp": 8,
+      "effort": 0.4,
+      "score": 500,
+      "rank": 15
+    }
+  ],
+  "kano": {
+    "K1": {
+      "name": "Відмітка оплати біля заняття з автоматичним боргом",
+      "story": "US-004",
+      "counts": {
+        "M": 9,
+        "O": 2,
+        "A": 0,
+        "I": 1,
+        "R": 0,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "M",
+      "tie": false,
+      "segments": {
+        "студенти": "M",
+        "вчителі": "M"
+      }
+    },
+    "K2": {
+      "name": "Екран боргів на головній",
+      "story": "US-005",
+      "counts": {
+        "M": 2,
+        "O": 7,
+        "A": 2,
+        "I": 1,
+        "R": 0,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "O",
+      "tie": false,
+      "segments": {
+        "студенти": "O",
+        "вчителі": "O"
+      }
+    },
+    "K3": {
+      "name": "Нагадування учням про оплату від імені Classno",
+      "story": "US-010",
+      "counts": {
+        "M": 0,
+        "O": 7,
+        "A": 4,
+        "I": 0,
+        "R": 1,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "O",
+      "tie": false,
+      "segments": {
+        "студенти": "O",
+        "вчителі": "O"
+      }
+    },
+    "K4": {
+      "name": "Вечірнє питання бота «Хто сьогодні заплатив?»",
+      "story": "US-014",
+      "counts": {
+        "M": 0,
+        "O": 1,
+        "A": 7,
+        "I": 3,
+        "R": 1,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "A",
+      "tie": false,
+      "segments": {
+        "студенти": "A",
+        "вчителі": "A"
+      }
+    },
+    "K5": {
+      "name": "Підсумок тижня щонеділі",
+      "story": "US-015",
+      "counts": {
+        "M": 1,
+        "O": 6,
+        "A": 2,
+        "I": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "O",
+      "tie": false,
+      "segments": {
+        "студенти": "O",
+        "вчителі": "O"
+      }
+    },
+    "K6": {
+      "name": "Онбординг у 3 кроки",
+      "story": "US-007",
+      "counts": {
+        "M": 6,
+        "O": 2,
+        "A": 0,
+        "I": 4,
+        "R": 0,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "M",
+      "tie": false,
+      "segments": {
+        "студенти": "I",
+        "вчителі": "M"
+      }
+    },
+    "K7": {
+      "name": "Перенесення заняття учнем за посиланням",
+      "story": "US-017",
+      "counts": {
+        "M": 0,
+        "O": 0,
+        "A": 5,
+        "I": 5,
+        "R": 2,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "A",
+      "tie": true,
+      "segments": {
+        "студенти": "A",
+        "вчителі": "I"
+      }
+    },
+    "K8": {
+      "name": "Нагадування батькам у Viber",
+      "story": "US-023",
+      "counts": {
+        "M": 4,
+        "O": 2,
+        "A": 0,
+        "I": 6,
+        "R": 0,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "I",
+      "tie": false,
+      "segments": {
+        "студенти": "I",
+        "вчителі": "M"
+      }
+    },
+    "K9": {
+      "name": "Місячний звіт батькам",
+      "story": "US-026",
+      "counts": {
+        "M": 0,
+        "O": 1,
+        "A": 2,
+        "I": 8,
+        "R": 0,
+        "Q": 1
+      },
+      "valid": 11,
+      "final": "I",
+      "tie": false,
+      "segments": {
+        "студенти": "I",
+        "вчителі": "A"
+      }
+    },
+    "K10": {
+      "name": "Робота без інтернету",
+      "story": "US-022",
+      "counts": {
+        "M": 6,
+        "O": 1,
+        "A": 1,
+        "I": 4,
+        "R": 0,
+        "Q": 0
+      },
+      "valid": 12,
+      "final": "M",
+      "tie": false,
+      "segments": {
+        "студенти": "I",
+        "вчителі": "M"
+      }
+    }
+  },
+  "opportunity": {
+    "O1": {
+      "text": "Знати, хто й за які заняття винен, не гортаючи банківську виписку",
+      "importance": 9.5,
+      "satisfaction": 3.6,
+      "opp": 15.4,
+      "zone": "Underserved",
+      "importance_teachers": 9.6,
+      "n": 12
+    },
+    "O2": {
+      "text": "Отримати борг, не пишучи учню чи батькам про гроші самому",
+      "importance": 9.0,
+      "satisfaction": 2.8,
+      "opp": 15.2,
+      "zone": "Underserved",
+      "importance_teachers": 8.4,
+      "n": 12
+    },
+    "O3": {
+      "text": "Звести оплати готівкою і на картку за тиждень без калькулятора",
+      "importance": 8.1,
+      "satisfaction": 3.4,
+      "opp": 12.8,
+      "zone": "Underserved",
+      "importance_teachers": 8.8,
+      "n": 12
+    },
+    "O4": {
+      "text": "Не забути, з ким і коли заняття",
+      "importance": 8.1,
+      "satisfaction": 8.2,
+      "opp": 8.1,
+      "zone": "Overserved",
+      "importance_teachers": 8.2,
+      "n": 12
+    },
+    "O5": {
+      "text": "Перебудувати розклад після зміни графіка відключень за кілька хвилин",
+      "importance": 7.2,
+      "satisfaction": 3.8,
+      "opp": 10.6,
+      "zone": "Contested",
+      "importance_teachers": 8.2,
+      "n": 12
+    },
+    "O6": {
+      "text": "Заповнити вікно, що звільнилось після перенесення в останній момент",
+      "importance": 5.3,
+      "satisfaction": 3.6,
+      "opp": 7.0,
+      "zone": "Low Importance",
+      "importance_teachers": 4.6,
+      "n": 12
+    },
+    "O7": {
+      "text": "Отримувати оплату від батьків вчасно, не змінюючи їхній месенджер",
+      "importance": 6.8,
+      "satisfaction": 4.7,
+      "opp": 8.9,
+      "zone": "Contested",
+      "importance_teachers": 7.8,
+      "n": 12
+    },
+    "O8": {
+      "text": "Показати батькам прогрес дитини без окремого повідомлення кожній родині",
+      "importance": 5.2,
+      "satisfaction": 4.4,
+      "opp": 6.0,
+      "zone": "Low Importance",
+      "importance_teachers": 5.6,
+      "n": 12
+    },
+    "O9": {
+      "text": "Почати вести облік за один вечір без сторонньої допомоги",
+      "importance": 6.6,
+      "satisfaction": 5.1,
+      "opp": 8.1,
+      "zone": "Contested",
+      "importance_teachers": 6.8,
+      "n": 12
+    },
+    "O10": {
+      "text": "Бачити заробіток за місяць без ручних підрахунків",
+      "importance": 6.8,
+      "satisfaction": 7.2,
+      "opp": 6.8,
+      "zone": "Overserved",
+      "importance_teachers": 6.6,
+      "n": 12
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "projects": {
+    "E-01": {
+      "id": "ba394dee-4058-4884-b7bd-16d73d453c96",
+      "url": "https://linear.app/classno/project/e-01-oblik-zanyat-i-oplat-302df665642b"
+    },
+    "E-02": {
+      "id": "91f29134-a292-4b51-b8f8-79654a97be7b",
+      "url": "https://linear.app/classno/project/e-02-nagaduvannya-pro-oplatu-vid-imeni-classno-d4c88521b218"
+    },
+    "E-03": {
+      "id": "4ef4712a-d742-4e66-9f3e-252373982083",
+      "url": "https://linear.app/classno/project/e-03-rozklad-i-perenesennya-zanyat-e99483f99d14"
+    },
+    "E-04": {
+      "id": "b9a0fc29-77d8-415e-9e33-0f3b0eef2596",
+      "url": "https://linear.app/classno/project/e-04-komunikaciya-z-batkami-2f6a54b8e4f6"
+    }
+  },
+  "issues": {
+    "F-01": {
+      "id": "d2100991-c5e0-486e-909a-a5c212422e59",
+      "identifier": "CLA-5",
+      "url": "https://linear.app/classno/issue/CLA-5/f-01-zhurnal-uchniv-i-zanyat"
+    },
+    "US-001": {
+      "id": "a7cd61f0-92d0-499b-adae-73fdf7252526",
+      "identifier": "CLA-6",
+      "url": "https://linear.app/classno/issue/CLA-6/us-001-dodati-uchnya-z-kontaktom-platnika"
+    },
+    "US-002": {
+      "id": "bfb3de8d-8982-428f-8961-f1d928747855",
+      "identifier": "CLA-7",
+      "url": "https://linear.app/classno/issue/CLA-7/us-002-postijnij-rozklad-uchnya"
+    },
+    "US-003": {
+      "id": "b680d70e-b644-4525-a5c8-2915e1f13c3e",
+      "identifier": "CLA-8",
+      "url": "https://linear.app/classno/issue/CLA-8/us-003-zhurnal-tizhnya"
+    },
+    "F-02": {
+      "id": "962e28da-cdd5-46b6-a50f-deebbd3d4f14",
+      "identifier": "CLA-9",
+      "url": "https://linear.app/classno/issue/CLA-9/f-02-oplati-j-borgi"
+    },
+    "US-004": {
+      "id": "77d63e9d-9f23-443f-a268-ff020535372a",
+      "identifier": "CLA-10",
+      "url": "https://linear.app/classno/issue/CLA-10/us-004-oplata-odnim-dotikom"
+    },
+    "US-005": {
+      "id": "35dd181d-5dbe-40e5-99dc-555896a7bd96",
+      "identifier": "CLA-11",
+      "url": "https://linear.app/classno/issue/CLA-11/us-005-ekran-borgiv"
+    },
+    "US-006": {
+      "id": "20e2dc6b-0553-4086-9ce6-c6e9aca21f9c",
+      "identifier": "CLA-12",
+      "url": "https://linear.app/classno/issue/CLA-12/us-006-paketi-zanyat"
+    },
+    "F-03": {
+      "id": "3642ef20-a890-4c3f-afd9-83a605da12e2",
+      "identifier": "CLA-13",
+      "url": "https://linear.app/classno/issue/CLA-13/f-03-shvidkij-start"
+    },
+    "US-007": {
+      "id": "326ca5e0-4a41-4324-8d59-c2d90b17b9a3",
+      "identifier": "CLA-14",
+      "url": "https://linear.app/classno/issue/CLA-14/us-007-onbording-u-3-kroki"
+    },
+    "US-008": {
+      "id": "4158bdc2-01af-4bef-a8ff-964b3f31b77f",
+      "identifier": "CLA-15",
+      "url": "https://linear.app/classno/issue/CLA-15/us-008-import-z-google-calendar"
+    },
+    "US-009": {
+      "id": "88d8e073-a87b-44c9-95b2-c1940e7589d5",
+      "identifier": "CLA-16",
+      "url": "https://linear.app/classno/issue/CLA-16/us-009-import-z-excel"
+    },
+    "F-04": {
+      "id": "55058f82-0bcf-4009-b3f1-b04e7fa35d5c",
+      "identifier": "CLA-17",
+      "url": "https://linear.app/classno/issue/CLA-17/f-04-nagaduvannya-uchnyam-pro-oplatu"
+    },
+    "US-010": {
+      "id": "119480eb-97c1-4f6a-a95e-ab7c115f0ae0",
+      "identifier": "CLA-18",
+      "url": "https://linear.app/classno/issue/CLA-18/us-010-nagaduvannya-vid-imeni-classno"
+    },
+    "US-011": {
+      "id": "40a58457-a83a-4de0-be2f-9af3ed8b633e",
+      "identifier": "CLA-19",
+      "url": "https://linear.app/classno/issue/CLA-19/us-011-redaguvannya-tekstu"
+    },
+    "US-012": {
+      "id": "fa6462e6-e1e5-433d-82be-3e3bfccc2928",
+      "identifier": "CLA-20",
+      "url": "https://linear.app/classno/issue/CLA-20/us-012-bez-nagaduvan-pri-zastarilih-danih"
+    },
+    "US-013": {
+      "id": "64130766-7780-4e33-8f0f-ad42bd0e1001",
+      "identifier": "CLA-21",
+      "url": "https://linear.app/classno/issue/CLA-21/us-013-knopka-vzhe-oplativ"
+    },
+    "F-05": {
+      "id": "2d7d9ad6-3690-4012-839d-0e52c6e5ccb6",
+      "identifier": "CLA-22",
+      "url": "https://linear.app/classno/issue/CLA-22/f-05-telegram-bot-dlya-repetitora"
+    },
+    "US-014": {
+      "id": "4ce5faeb-442e-4368-aa91-cb8c79b69038",
+      "identifier": "CLA-23",
+      "url": "https://linear.app/classno/issue/CLA-23/us-014-vechirnye-pitannya-bota"
+    },
+    "US-015": {
+      "id": "6edc0eef-d94d-43a1-a327-3fea0d7082e7",
+      "identifier": "CLA-24",
+      "url": "https://linear.app/classno/issue/CLA-24/us-015-pidsumok-tizhnya"
+    },
+    "US-016": {
+      "id": "06976b19-974a-4d6d-a500-a1d164a10b04",
+      "identifier": "CLA-25",
+      "url": "https://linear.app/classno/issue/CLA-25/us-016-peresilannya-spovishennya-banku-botu"
+    },
+    "F-06": {
+      "id": "49a8d434-e26b-49a0-9a6b-69ea959c6da5",
+      "identifier": "CLA-26",
+      "url": "https://linear.app/classno/issue/CLA-26/f-06-perenesennya-zanyattya-uchnem"
+    },
+    "US-017": {
+      "id": "164ae156-e3ae-4189-8106-abc59071a1ae",
+      "identifier": "CLA-27",
+      "url": "https://linear.app/classno/issue/CLA-27/us-017-perenesennya-uchnem-za-posilannyam"
+    },
+    "US-018": {
+      "id": "bf18dce2-8bb8-4478-9fa9-f7438ab71c64",
+      "identifier": "CLA-28",
+      "url": "https://linear.app/classno/issue/CLA-28/us-018-obmezhennya-na-perenesennya"
+    },
+    "US-019": {
+      "id": "ddd256d4-8dfa-4d7a-b14e-4369150d6757",
+      "identifier": "CLA-29",
+      "url": "https://linear.app/classno/issue/CLA-29/us-019-zvilnene-vikno-inshim-uchnyam"
+    },
+    "F-07": {
+      "id": "4aeb89e1-3521-48db-b89f-d064f0e781a8",
+      "identifier": "CLA-30",
+      "url": "https://linear.app/classno/issue/CLA-30/f-07-masove-perenesennya-dnya"
+    },
+    "US-020": {
+      "id": "9fc8c944-81ee-472c-95b4-f196174226cb",
+      "identifier": "CLA-31",
+      "url": "https://linear.app/classno/issue/CLA-31/us-020-perenesennya-vsogo-dnya"
+    },
+    "US-021": {
+      "id": "4fcc1048-37ee-43ae-81ba-05b8b4089291",
+      "identifier": "CLA-32",
+      "url": "https://linear.app/classno/issue/CLA-32/us-021-povidomiti-vsih"
+    },
+    "US-022": {
+      "id": "bc5f0621-aaff-4aa7-b9d1-83f80380166b",
+      "identifier": "CLA-33",
+      "url": "https://linear.app/classno/issue/CLA-33/us-022-robota-bez-internetu"
+    },
+    "F-08": {
+      "id": "372a6c51-95e1-49d8-8e10-8fec217d5fab",
+      "identifier": "CLA-34",
+      "url": "https://linear.app/classno/issue/CLA-34/f-08-nagaduvannya-batkam-u-viber"
+    },
+    "US-023": {
+      "id": "eeca5c26-39e3-4ce2-aeb7-42aac6abc37f",
+      "identifier": "CLA-35",
+      "url": "https://linear.app/classno/issue/CLA-35/us-023-nagaduvannya-u-viber"
+    },
+    "US-024": {
+      "id": "3badbdf0-c146-430a-ba70-7760632c515e",
+      "identifier": "CLA-36",
+      "url": "https://linear.app/classno/issue/CLA-36/us-024-kanal-dlya-kozhnogo-uchnya"
+    },
+    "US-025": {
+      "id": "f1a2a4a5-0e5f-4b52-a8c6-3925aa08e999",
+      "identifier": "CLA-37",
+      "url": "https://linear.app/classno/issue/CLA-37/us-025-nagaduvannya-posilannyam"
+    },
+    "F-09": {
+      "id": "922d8250-d34e-4748-bb28-ca25c74aa82b",
+      "identifier": "CLA-38",
+      "url": "https://linear.app/classno/issue/CLA-38/f-09-zvit-batkam"
+    },
+    "US-026": {
+      "id": "96232387-f6d1-45fe-8947-8fddff831fa0",
+      "identifier": "CLA-39",
+      "url": "https://linear.app/classno/issue/CLA-39/us-026-misyachnij-zvit-batkam"
+    },
+    "US-027": {
+      "id": "7397da85-2461-492f-b875-0e5def610386",
+      "identifier": "CLA-40",
+      "url": "https://linear.app/classno/issue/CLA-40/us-027-notatka-do-zanyattya"
+    },
+    "US-028": {
+      "id": "5a50726e-325c-49cd-a881-d286f54947e8",
+      "identifier": "CLA-41",
+      "url": "https://linear.app/classno/issue/CLA-41/us-028-avtomatichnij-visnovok-dlya-batkiv"
+    }
+  },
+  "labels": {
+    "Improvement": "b743226d-a921-4aea-8ffc-5ff5663acaa4",
+    "Bug": "7d12c33c-41fb-4d79-bfd0-d469cfaac0c2",
+    "Feature": "1e983fd1-9024-4daf-8832-d7bde9bee6a6",
+    "Реліз": "c7234999-d7e9-49a4-b649-4ccbb1d95250",
+    "MVP": "4154ea20-61a0-4bda-9a50-dab40f8ba064",
+    "Release 2": "9f5232c5-77ad-4b00-925f-f22f58ff0b16",
+    "Backlog": "8bc13487-196c-45b4-be52-157197915099",
+    "Не зараз": "be24d0b7-2c38-4d6f-b13c-27e53b772cc5"
+  }
+}
