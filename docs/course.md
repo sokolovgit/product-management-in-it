@@ -64,3 +64,4 @@
 | 1 | Аналіз ринку та дослідження ЦА | [`labs/PR01.pdf`](labs/PR01.pdf) |
 | 2 | Jobs-to-be-Done та ціннісна пропозиція | [`labs/PR02.pdf`](labs/PR02.pdf) |
 | 3 | Lean Startup: MVP та тестування гіпотез | [`labs/PR03.pdf`](labs/PR03.pdf) |
+| 4 | Продуктовий беклог та методи пріоритизації | [`labs/PR04.pdf`](labs/PR04.pdf) |
